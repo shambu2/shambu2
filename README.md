@@ -6,8 +6,8 @@ I care about clean architecture, performance , and shipping things that actually
 ### 🛠️ What I work with
 - **Frontend:** React, TypeScript, Next.js   
 - **Backend:** Node.js, Express, REST APIs   
-- **Database:** MongoDB   
-- **DevOps:** Docker, Git, CI basics 🐳  
+- **Database:** MongoDB, PostgreSQL, SQL   
+- **DevOps:** Docker, CI/CD, Kubernetes 🐳  
 
 ### 🔭 What I’m currently doing
 - Building full-stack projects with modern best practices  
