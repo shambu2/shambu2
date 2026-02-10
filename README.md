@@ -20,5 +20,5 @@ I care about clean architecture, performance , and shipping things that actually
 - Shipping > endless planning   
 
 ### 📫 Let’s connect
-- LinkedIn: add link  
-- Portfolio: add link
+- LinkedIn: https://www.linkedin.com/in/shambulinga/  
+
