@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I’m Shambulinga 👋
 
-<!--
-**shambu2/shambu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Software Engineer** focused on building scalable, production-ready web applications   
+I care about clean architecture, performance , and shipping things that actually work.
 
-Here are some ideas to get you started:
+### 🛠️ What I work with
+- **Frontend:** React, TypeScript, Next.js   
+- **Backend:** Node.js, Express, REST APIs   
+- **Database:** MongoDB   
+- **DevOps:** Docker, Git, CI basics 🐳  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I’m currently doing
+- Building full-stack projects with modern best practices  
+- Improving system design and backend fundamentals  
+- Preparing for high-impact software engineering roles  
+
+### 💭 How I think
+- Simple > clever  
+- Readability > over-engineering  
+- Shipping > endless planning   
+
+### 📫 Let’s connect
+- LinkedIn: add link  
+- Portfolio: add link
